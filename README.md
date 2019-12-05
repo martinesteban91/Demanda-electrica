@@ -7,12 +7,12 @@ energética de los últimos años, como fue la evolución de dicho consumo abier
 distintas dimensiones: temporal, geográfica, categoría de área, categoría de demanda, tipo
 de tarifa u otra que el analista crea pertinente para el estudio.
 
-#### **Demanda electrica del pais en Julio del 2019
+#### Demanda electrica del pais en Julio del 2019
 
 ![image](https://user-images.githubusercontent.com/53145526/70282183-e81ff680-179b-11ea-9257-d37bfe420c20.png)
 
 
-#### **Variación de consumo entre el año 2016 y 2019 por provincia
+#### Variación de consumo entre el año 2016 y 2019 por provincia
 
 ![image](https://user-images.githubusercontent.com/53145526/70282215-fbcb5d00-179b-11ea-886c-1f4859c4cf03.png)
 
